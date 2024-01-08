@@ -1,5 +1,5 @@
 # creative_coding
-Code I wrote on Making Visuals with JavaScript -course. \
+Code I wrote on Making Visuals with JavaScript -course.
 
 Every sketch file can be run locally using the canvas-sketch npm-library. \
 If you have npm and canvas-sketch installed, you can run (for example)
